@@ -1,7 +1,7 @@
 
 
 # Olá, Sou Tábata Alves 👩‍💻 👋
-![giphy](https://user-images.githubusercontent.com/84625074/119262718-96974180-bbb2-11eb-824b-fb77afc468ee.gif)
+         
 
 
 
