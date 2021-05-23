@@ -1,3 +1,4 @@
+![giphy](https://user-images.githubusercontent.com/84625074/119262685-76678280-bbb2-11eb-8ed1-3e8f3d7d221a.gif)
 
 # Olá, Sou Tábata Alves 👩‍💻 👋
 
