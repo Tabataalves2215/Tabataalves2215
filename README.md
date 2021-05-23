@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #Sou Tábata Alves 👩‍💻
-[![Linkedin Badge] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/t%C3%A1bata-alves-2aa6931a4/
+#Esse é meu Linkedin:https://www.linkedin.com/in/t%C3%A1bata-alves-2aa6931a4/
