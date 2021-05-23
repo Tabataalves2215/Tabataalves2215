@@ -2,8 +2,6 @@
 # Olá, Sou Tábata Alves 👩‍💻 👋
 
 
-# Sou estudante da Área de Desenvolvimento de Sistemas e de TI.
-
 
 
 <!--
