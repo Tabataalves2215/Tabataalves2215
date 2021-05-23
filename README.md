@@ -1,7 +1,8 @@
 
 
-# Olá, Sou Tábata Alves 👩‍💻 👋
+# Olá, Seja Bem Vindo! 😉
          
+![femalecodertocat](https://user-images.githubusercontent.com/84625074/119263809-e972f800-bbb6-11eb-95be-5a49b35e7535.png)
 
 
 
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 
-#  Sou estudante da área de Desenvolvimento de Sistemas e de TI.
+
