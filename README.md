@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 
-
+#  Sou estudante da área de Desenvolvimento de Sistemas e de TI.
