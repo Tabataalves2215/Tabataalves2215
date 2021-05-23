@@ -1,6 +1,11 @@
 
 # Olá, Sou Tábata Alves 👩‍💻 👋
 
+
+# Sou estudante da Área de Desenvolvimento de Sistemas e de TI.
+
+
+
 <!--
 **Tabataalves2215/Tabataalves2215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
